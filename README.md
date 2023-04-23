@@ -2,7 +2,7 @@
 
 Este é um bot de pesca que pode ser utilizado em jogos de pesca em que é necessário capturar peixes em um puzzle. O bot é capaz de ler as coordenadas dos peixes quando o puzzle fica verde e salvá-las quando o usuário pressiona a tecla "s".
 
-## Como usar
+## Como usar (python .\main.py no terminal)
 
 1. Inicie o puzzle de pesca e clique no botão "Começar a capturar" posicione o cursor na tela onde o puzzle aparece.
 2. Quando o puzzle ficar verde, aperte a tecla "s" para capturar a coordenada.
